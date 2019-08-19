@@ -1,7 +1,7 @@
 import requests
 import telebot;
 
-token = '898400731:AAF3bs_P6pXMPMP5kg2b0lfkilsMulYKos0'
+token = ''
 bot = telebot.TeleBot(token);
 
 
